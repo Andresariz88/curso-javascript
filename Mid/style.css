@@ -1,0 +1,33 @@
+div {
+    background-color: rgb(71, 71, 71);
+    padding: 20px;
+}
+
+h2 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+.container {
+    padding: 30px;
+    background: red;
+    border-radius: 4px;
+    margin: 30px 0px;
+}
+
+.greenContainer {
+    padding: 30px;
+    background: green;
+    border-radius: 4px;
+    margin: 30px 0px;
+}
+
+.input {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 6px;
+    color: #444;
+}
